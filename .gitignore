@@ -352,3 +352,5 @@ PlatformService/.vscode/launch.json
 PlatformService/.vscode/tasks.json
 .vscode/launch.json
 .vscode/tasks.json
+CommandsService/.vscode/launch.json
+CommandsService/.vscode/tasks.json
